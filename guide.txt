@@ -1,0 +1,5 @@
+Modifier les identifiants de la base de données dans :
+includes/init.php
+
+Modifier l'URL du site dans : 
+inscription.php ($url)

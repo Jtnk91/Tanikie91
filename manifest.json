@@ -1,0 +1,10 @@
+{
+  "name": "Watch the movies",
+  "short_name": "WW",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white",
+  "orientation": "portrait-primary"
+}
+  
